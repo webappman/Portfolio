@@ -1,0 +1,434 @@
+# Logfile created on 2017-04-14 23:19:38 +0200 by logger.rb/56438
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Environment: development
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Dispatcher: webrick
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Application: Portfolio (Development)
+[2017-04-14 23:19:38 +0200 work3 (8915)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing ActiveJob instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Net instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Rails 4 view instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-14 23:19:38 +0200 work3 (8915)] INFO : Finished instrumentation
+[2017-04-14 23:19:39 +0200 work3 (8915)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Environment: development
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Dispatcher: webrick
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Application: Portfolio (Development)
+[2017-04-14 23:22:11 +0200 work3 (8954)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing ActiveJob instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Net instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Rails 4 view instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-14 23:22:11 +0200 work3 (8954)] INFO : Finished instrumentation
+[2017-04-14 23:22:12 +0200 work3 (8954)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-14 23:22:37 +0200 work3 (8954)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-14 23:22:37 +0200 work3 (8954)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-14 23:24:52 +0200 work3 (8954)] INFO : Starting Agent shutdown
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Environment: development
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Dispatcher: webrick
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Application: Portfolio (Development)
+[2017-04-15 00:09:34 +0200 work3 (12435)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-15 00:09:34 +0200 work3 (12435)] INFO : Installing ActiveJob instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing Net instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing Rails 4 view instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Finished instrumentation
+[2017-04-15 00:09:35 +0200 work3 (12435)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-15 00:09:58 +0200 work3 (12435)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-15 00:09:58 +0200 work3 (12435)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-15 00:42:28 +0200 work3 (12435)] INFO : Starting Agent shutdown
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Environment: development
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Dispatcher: webrick
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Application: Portfolio (Development)
+[2017-04-15 00:44:32 +0200 work3 (14794)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-15 00:44:32 +0200 work3 (14794)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing ActiveJob instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Net instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Rails 4 view instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Finished instrumentation
+[2017-04-15 00:44:33 +0200 work3 (14794)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Environment: development
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Dispatcher: webrick
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Application: Portfolio (Development)
+[2017-04-15 00:57:44 +0200 work3 (19116)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing ActiveJob instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Net instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Rails 4 view instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-15 00:57:44 +0200 work3 (19116)] INFO : Finished instrumentation
+[2017-04-15 00:57:45 +0200 work3 (19116)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : Environment: development
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : Dispatcher: webrick
+[2017-04-15 01:05:55 +0200 work3 (21071)] INFO : Application: Portfolio (Development)
+[2017-04-15 01:05:55 +0200 work3 (21071)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing ActiveJob instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Net instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Rails 4 view instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-15 01:05:56 +0200 work3 (21071)] INFO : Finished instrumentation
+[2017-04-15 01:05:57 +0200 work3 (21071)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Environment: development
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Dispatcher: webrick
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Application: Portfolio (Development)
+[2017-04-16 19:20:41 +0200 work3 (11070)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Net instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 19:20:41 +0200 work3 (11070)] INFO : Finished instrumentation
+[2017-04-16 19:20:42 +0200 work3 (11070)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Environment: development
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Dispatcher: webrick
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Application: Portfolio (Development)
+[2017-04-16 21:04:22 +0200 work3 (3586)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Net instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 21:04:22 +0200 work3 (3586)] INFO : Finished instrumentation
+[2017-04-16 21:04:23 +0200 work3 (3586)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 21:04:27 +0200 work3 (3586)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 21:04:27 +0200 work3 (3586)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 21:06:15 +0200 work3 (3586)] INFO : Starting Agent shutdown
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Environment: development
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Dispatcher: webrick
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Application: Portfolio (Development)
+[2017-04-16 21:06:54 +0200 work3 (3754)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Net instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 21:06:54 +0200 work3 (3754)] INFO : Finished instrumentation
+[2017-04-16 21:06:55 +0200 work3 (3754)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 21:07:07 +0200 work3 (3754)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 21:07:07 +0200 work3 (3754)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 21:07:19 +0200 work3 (3754)] INFO : Starting Agent shutdown
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Environment: development
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Dispatcher: webrick
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Application: Portfolio (Development)
+[2017-04-16 21:13:46 +0200 work3 (8135)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Net instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 21:13:46 +0200 work3 (8135)] INFO : Finished instrumentation
+[2017-04-16 21:13:48 +0200 work3 (8135)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 21:14:09 +0200 work3 (8135)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 21:14:09 +0200 work3 (8135)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 21:18:02 +0200 work3 (8135)] INFO : Starting Agent shutdown
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Environment: development
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Dispatcher: webrick
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Application: Portfolio (Development)
+[2017-04-16 21:28:06 +0200 work3 (10310)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Net instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 21:28:06 +0200 work3 (10310)] INFO : Finished instrumentation
+[2017-04-16 21:28:07 +0200 work3 (10310)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Environment: development
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Dispatcher: webrick
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Application: Portfolio (Development)
+[2017-04-16 22:01:09 +0200 work3 (13560)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Net instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 22:01:09 +0200 work3 (13560)] INFO : Finished instrumentation
+[2017-04-16 22:01:11 +0200 work3 (13560)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Environment: development
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Dispatcher: webrick
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Application: Portfolio (Development)
+[2017-04-16 22:14:46 +0200 work3 (15629)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Net instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 22:14:46 +0200 work3 (15629)] INFO : Finished instrumentation
+[2017-04-16 22:14:47 +0200 work3 (15629)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:15:28 +0200 work3 (15629)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 22:15:28 +0200 work3 (15629)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 22:24:12 +0200 work3 (15629)] INFO : Starting Agent shutdown
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Environment: development
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Dispatcher: webrick
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Application: Portfolio (Development)
+[2017-04-16 22:27:07 +0200 work3 (15952)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Net instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 22:27:07 +0200 work3 (15952)] INFO : Finished instrumentation
+[2017-04-16 22:27:08 +0200 work3 (15952)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:27:45 +0200 work3 (15952)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 22:27:45 +0200 work3 (15952)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 22:28:11 +0200 work3 (15952)] INFO : Starting Agent shutdown
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Environment: development
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Dispatcher: webrick
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Application: Portfolio (Development)
+[2017-04-16 22:28:55 +0200 work3 (16095)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Net instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 22:28:55 +0200 work3 (16095)] INFO : Finished instrumentation
+[2017-04-16 22:28:56 +0200 work3 (16095)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Environment: development
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Dispatcher: webrick
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Application: Portfolio (Development)
+[2017-04-16 22:30:38 +0200 work3 (18120)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Net instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 22:30:38 +0200 work3 (18120)] INFO : Finished instrumentation
+[2017-04-16 22:30:39 +0200 work3 (18120)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-16 22:40:11 +0200 work3 (18120)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-16 22:40:11 +0200 work3 (18120)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-16 23:01:53 +0200 work3 (18120)] INFO : Starting Agent shutdown
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : Environment: development
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : Dispatcher: webrick
+[2017-04-16 23:08:43 +0200 work3 (18915)] INFO : Application: Portfolio (Development)
+[2017-04-16 23:08:43 +0200 work3 (18915)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing ActiveJob instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Net instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Rails 4 view instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-16 23:08:44 +0200 work3 (18915)] INFO : Finished instrumentation
+[2017-04-16 23:08:46 +0200 work3 (18915)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Environment: development
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Dispatcher: webrick
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Application: Portfolio (Development)
+[2017-04-17 11:02:43 +0200 work3 (3862)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing ActiveJob instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Net instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Rails 4 view instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-17 11:02:43 +0200 work3 (3862)] INFO : Finished instrumentation
+[2017-04-17 11:02:45 +0200 work3 (3862)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-17 11:03:24 +0200 work3 (3862)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-17 11:03:24 +0200 work3 (3862)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-17 11:13:40 +0200 work3 (3862)] INFO : Starting Agent shutdown
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Environment: development
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Dispatcher: webrick
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Application: Portfolio (Development)
+[2017-04-17 11:14:07 +0200 work3 (4134)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing ActiveJob instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Net instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Rails 4 view instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-17 11:14:07 +0200 work3 (4134)] INFO : Finished instrumentation
+[2017-04-17 11:14:08 +0200 work3 (4134)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-17 11:14:26 +0200 work3 (4134)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-17 11:14:26 +0200 work3 (4134)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-17 11:19:48 +0200 work3 (4134)] INFO : Starting Agent shutdown
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Starting the New Relic agent in "development" environment.
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Reading configuration from config/newrelic.yml (/home/work3/Documents/portfolio)
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : New Relic Agent Developer Mode enabled.
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Environment: development
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Dispatcher: webrick
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Application: Portfolio (Development)
+[2017-04-18 13:56:13 +0200 work3 (6313)] ERROR : Invalid license key: Settings.newrelic_key
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing ActiveJob instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Net instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing middleware-based Excon instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Rails 4 Controller instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Rails 4 view instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Installing Rails 4 Error instrumentation
+[2017-04-18 13:56:13 +0200 work3 (6313)] INFO : Finished instrumentation
+[2017-04-18 13:56:16 +0200 work3 (6313)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-04-18 13:57:36 +0200 work3 (6313)] ERROR : Invalid license key, please contact support@newrelic.com
+[2017-04-18 13:57:36 +0200 work3 (6313)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2017-04-18 15:08:41 +0200 work3 (6313)] INFO : Starting Agent shutdown

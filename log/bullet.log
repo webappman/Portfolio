@@ -1,0 +1,151 @@
+2017-04-16 22:50:21[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-16 22:50:21[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1/edit
+N+1 Query detected
+  Tagging => [:tag]
+  Add to your finder: :includes => [:tag]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+  /home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+/home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-16 22:51:44[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1
+N+1 Query detected
+  Item => [:post]
+  Add to your finder: :includes => [:post]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/post/form.rb:64:in `delete_unnecessary_items!'
+  /home/work3/Documents/portfolio/app/models/post/form.rb:34:in `block in save_from_associations'
+  /home/work3/Documents/portfolio/app/models/post/form.rb:33:in `save_from_associations'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:29:in `update'
+
+/home/work3/Documents/portfolio/app/models/post/form.rb:64:in `delete_unnecessary_items!'
+/home/work3/Documents/portfolio/app/models/post/form.rb:34:in `block in save_from_associations'
+/home/work3/Documents/portfolio/app/models/post/form.rb:33:in `save_from_associations'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:29:in `update'2017-04-16 22:51:44[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/item.rb:34:in `destroy_target'
+  /home/work3/Documents/portfolio/app/models/post/form.rb:64:in `delete_unnecessary_items!'
+  /home/work3/Documents/portfolio/app/models/post/form.rb:34:in `block in save_from_associations'
+  /home/work3/Documents/portfolio/app/models/post/form.rb:33:in `save_from_associations'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:29:in `update'
+
+/home/work3/Documents/portfolio/app/models/item.rb:34:in `destroy_target'
+/home/work3/Documents/portfolio/app/models/post/form.rb:64:in `delete_unnecessary_items!'
+/home/work3/Documents/portfolio/app/models/post/form.rb:34:in `block in save_from_associations'
+/home/work3/Documents/portfolio/app/models/post/form.rb:33:in `save_from_associations'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:29:in `update'2017-04-16 23:00:40[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/41/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-16 23:00:40[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/41/edit
+N+1 Query detected
+  Tagging => [:tag]
+  Add to your finder: :includes => [:tag]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+  /home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+/home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-16 23:01:48[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/41/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-16 23:01:48[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/41/edit
+N+1 Query detected
+  Tagging => [:tag]
+  Add to your finder: :includes => [:tag]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+  /home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+/home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-18 14:00:33[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-18 14:00:52[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/1/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-18 15:06:53[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/42/edit
+N+1 Query detected
+  Item => [:target]
+  Add to your finder: :includes => [:target]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+  /home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:42:in `target_column'
+/home/work3/Documents/portfolio/app/serializers/item_serializer.rb:16:in `description'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'2017-04-18 15:06:53[WARN] user: work3
+http://localhost:3000/cms/api/v1/posts/42/edit
+N+1 Query detected
+  Tagging => [:tag]
+  Add to your finder: :includes => [:tag]
+N+1 Query method call stack
+  /home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+  /home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+  /home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
+
+/home/work3/Documents/portfolio/app/models/tagging.rb:20:in `name'
+/home/work3/Documents/portfolio/app/serializers/cms/tagging_serializer.rb:6:in `text'
+/home/work3/Documents/portfolio/app/controllers/cms/api/v1/posts_controller.rb:24:in `edit'
